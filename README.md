@@ -1,5 +1,3 @@
-# furcorn
-My new repo!
 # Classification of Heart Disease Patients
 
 A project that implement simple neural network on Keras to classify patients of Heart Disease.
